@@ -1,0 +1,2 @@
+# sfst
+speakfreely scala training
